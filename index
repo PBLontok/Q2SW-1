@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+        <title>2nd Qtr SW1</title>
+    </head>
+    <body>
+        <table border="2" cellpadding="20" cellspacing="4">
+    <tr>
+        </n>
+               <td colspan="7" bgcolor="bfd7e0"><center><img src="data:image/jpeg;base64,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" width="200px" height="90px"></center></td>
+            
+            </tr>
+            <tr>
+                <th bgcolor="477d4e"><img src="https://images.app.goo.gl/UFytcaR43z7x5uLj9" width="200px" height="90px"></th>
+                <th bgcolor="477d4e"><img src="https://images.app.goo.gl/KLsyC2ujq2RAukdC6" width="200px" height="90px"></th>
+                <th bgcolor="477d4e"><img src="https://images.app.goo.gl/ambiuMsE5jiCqhZn7" width="200px" height="90px"></th>
+                <th bgcolor="477d4e"><img src="https://images.app.goo.gl/pUy8UEErfCS8uGdP9" width="200px" height="90px"></th>
+                <th bgcolor="477d4e"><img src="https://images.app.goo.gl/b9NkyZpLk5YL9S4Z7" width="200px" height="90px"></th>
+                </tr>
+                 <tr>
+                <th bgcolor="7ac284"><Font color="420505">Truffle Cream</th>
+                <th bgcolor="7ac284"><Font color="420505">Carbonara</th>
+                <th bgcolor="7ac284"><Font color="420505">Mac'n Cheese</th>
+                <th bgcolor="7ac284"><Font color="420505">Tomato & Basil</th>
+                <th bgcolor="7ac284"><Font color="420505">Classic Bolognese</th>
+                </tr>
+                 <tr>
+                <th bgcolor="92d69b"><Font color="420505">Spaghettini with truffle oil and freshly grated parmesan cheese</th>
+                <th bgcolor="92d69b"><Font color="420505">Spaghettini with cream, parmesan cheese, and bacon bits</th>
+                <th bgcolor="92d69b"><Font color="420505">Shell pasta with guyere, cheddar, and parmesan cheese sauce</th>
+                <th bgcolor="92d69b"><Font color="420505">Spaghettini with cherry tomatoes, basil, parmesan cheese, and olive oil</th>
+                <th bgcolor="92d69b"><Font color="420505">Spaghettini with slow-cooked tomato beef ragu, basil, and parmesan cheese</th>
+                </tr>
+                 <tr>
+                <th bgcolor="aeebb6"><Font color="420505">Php 305</th>
+                <th bgcolor="aeebb6"><Font color="420505">Php 345</th>
+                <th bgcolor="aeebb6"><Font color="420505">Php 395</th>
+                <th bgcolor="aeebb6"><Font color="420505">Php 285</th>
+                <th bgcolor="aeebb6"><Font color="420505">Php 295</th>
+                <tr>
+                <th bgcolor="3a5669"><img src="https://images.app.goo.gl/v2aoiHSQ3VC1k4mk6" width="200px" height="90px"></th>
+                <th bgcolor="3a5669"><img src="https://images.app.goo.gl/Ph1ExdYzLJLdVHFW6" width="200px" height="90px"></th>
+                <th bgcolor="3a5669"><img src="https://images.app.goo.gl/nWzAcRNn71Cyeyce9" width="200px" height="90px"></th>
+                <th bgcolor="3a5669"><img src="https://images.app.goo.gl/crdmWSyvvSkCWpZF7" width="200px" height="90px"></th>
+                <th bgcolor="3a5669"><<img src="https://images.app.goo.gl/hnvK1NvqbLuBaEvj8" width="200px" height="90px"></th>
+                </tr>
+                 <tr>
+                <th bgcolor="577a91"><Font color="420505">Parmesan Truffle Fries</th>
+                <th bgcolor="577a91"><Font color="420505">Fries Truffle Cheese Wantons</th>
+                <th bgcolor="577a91"><Font color="420505">Chicken Lettuce Wrap</th>
+                <th bgcolor="577a91"><Font color="420505">Grilled Cheese Panini with Sour Cream Dip</th>
+                <th bgcolor="577a91"><Font color="420505">French Onion Soup</th>
+                </tr>
+                 <tr>
+                <th bgcolor="799cb3"><Font color="420505">Fries coated in parmesan and truffle oil, served with paprika aioli dip</th>
+                <th bgcolor="799cb3"><Font color="420505">Mozzarella and cheddar cheese-stuffed 
+                    wantons, drizzled with honey and truffle oil</th>
+                <th bgcolor="799cb3"><Font color="420505">Chicken, tofu, water chestnuts, and shiitake mushrooms,cooked in oriental sauce, served with romaine lettuce</th>
+                <th bgcolor="799cb3"><Font color="420505">Panini slices with melted mozzarella and cheddar cheese, served with homemade sour cream and onion dip</th>
+                <th bgcolor="799cb3"><Font color="420505">Slow-cooked caramelized onions in broth, topped with sourdough and melted mozzarella cheese</th>
+                </tr>
+                 <tr>
+                <th bgcolor="a3c3d9"><Font color="420505">Php 295</th>
+                <th bgcolor="a3c3d9"><Font color="420505">Php 195</th>
+                <th bgcolor="a3c3d9"><Font color="420505">Php 295</th>
+                <th bgcolor="a3c3d9"><Font color="420505">Php 325</th>
+                <th bgcolor="a3c3d9"><Font color="420505">Php 385</th>
